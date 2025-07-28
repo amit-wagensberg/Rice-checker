@@ -1,2 +1,2 @@
 # Rice-checker
-Developed and trained a convolutional neural network (CNN) to classify rice grain images into 10 categories, using TensorFlow and Keras on preprocessed 128×128 datasets, achieving high accuracy through data augmentation and model optimization.
+This repository contains a Jupyter Notebook demonstrating a complete supervised machine learning workflow using classification. The process includes data preprocessing, model training with several classifiers (such as Decision Tree, Random Forest, KNN, and Naive Bayes), evaluation using accuracy and classification reports, and comparison of results to select the best-performing model.
