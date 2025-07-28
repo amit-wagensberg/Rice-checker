@@ -1,6 +1,7 @@
 # Rice-checker
 The dataset:
 https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset
+
 This repository contains a Jupyter Notebook demonstrating a complete supervised machine learning workflow using classification. The process includes data preprocessing, model training with several classifiers (such as Decision Tree, Random Forest, KNN, and Naive Bayes), evaluation using accuracy and classification reports, and comparison of results to select the best-performing model.
 <img width="1107" height="560" alt="Screenshot 2025-07-28 160715" src="https://github.com/user-attachments/assets/cdeec58c-15ea-429b-bd97-fe5dcb733c88" />
 
